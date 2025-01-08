@@ -25,6 +25,7 @@ export default defineNuxtConfig({
     kv: true,
     database: true,
     cache: true,
+    blob: true,
   },
 
   // https://eslint.nuxt.com
