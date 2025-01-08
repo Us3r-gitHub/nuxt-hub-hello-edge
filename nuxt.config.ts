@@ -24,6 +24,7 @@ export default defineNuxtConfig({
   hub: {
     kv: true,
     database: true,
+    cache: true,
   },
 
   // https://eslint.nuxt.com
