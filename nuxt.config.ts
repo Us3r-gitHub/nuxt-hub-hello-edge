@@ -23,6 +23,7 @@ export default defineNuxtConfig({
   // https://hub.nuxt.com/docs/getting-started/installation#options
   hub: {
     kv: true,
+    database: true,
   },
 
   // https://eslint.nuxt.com
